@@ -1,0 +1,10 @@
+orden_calentamiento,tratamiento,algoritmo,tamano,semilla
+1,T1,quick_sort,10000,296516615
+2,T2,quick_sort,50000,1392687265
+3,T3,quick_sort,200000,1470594202
+4,T4,merge_sort,10000,887459691
+5,T5,merge_sort,50000,1261098222
+6,T6,merge_sort,200000,1761704911
+7,T7,heap_sort,10000,1617397988
+8,T8,heap_sort,50000,759980590
+9,T9,heap_sort,200000,1908527421
